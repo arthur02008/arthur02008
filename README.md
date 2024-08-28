@@ -6,4 +6,3 @@ Meu nome é Arthur Pereira
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-  ### você entrar em contato comigo 📫
